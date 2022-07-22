@@ -132,20 +132,6 @@ describe("DeAiC Token", function () {
 
   })
 
-  describe.only("Sell Function", function(){
-    // it("Owner: should sell all tokens", async () => {
-    //   const preBal = await tokenInstance.balance;
-    //   await tokenInstance.sell();    
-      
-    // })
-
-    // it("Owner: Should set max transection percent", async function(){
-    //   await tokenInstance.setMaxTxPercent(5000);
-
-    //   expect 
-
-    // })
-  })
 
 
   
